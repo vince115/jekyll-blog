@@ -45,7 +45,6 @@ plugins:
 netlify:
   headers:
         - "X-Frame-Options: ALLOW-FROM http://disqus.com"
-        - "X-XSS-Protection: 1; mode=block"
 
 
 
