@@ -44,7 +44,7 @@ plugins:
 
 netlify:
   headers:
-        - "X-Frame-Options: ALLOW-FROM http://disqus.com"
+        - "X-Frame-Options: ALLOW-FROM https://disqus.com"
 
 
 
