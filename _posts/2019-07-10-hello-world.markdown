@@ -2,10 +2,12 @@
 layout: post
 title:  "Hello World !"
 date:   2019-07-10 18:31:18 +0800
-categories: Angular React VueJS NodeJS
+categories: Github Ruby Jekyll
 ---
 
 <h3>Hello World !</h3>
+
+Github用Jekyll創建自己的Blog 成功!
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
